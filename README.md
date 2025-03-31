@@ -26,7 +26,7 @@ Currently participating on **Free95 OS**, experimenting with **AI models in cybe
 
 - 🔌 Computer networks & system administration  
 - 🏭 Microcomputers & **PLC automation**  
-- 🎨 Frontend development with **Bootstrap**
+- 🎨 Frontend development with **Bootstrap** - see [Tajná společnost on Blogger](https://tajnaspolecnost.blogspot.com/)
 - 🤖 AI & machine learning experiments    
 
 ---
