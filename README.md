@@ -55,4 +55,4 @@ Currently participating on **Free95 OS**, experimenting with **AI models in cybe
 
 ## 📫 How to reach me  
 - GitHub Issues / Discussions  
-- Discord: **TouaregCS**  
+- Discord: **```TouaregCS```**  
