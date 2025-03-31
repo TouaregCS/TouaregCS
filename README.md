@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 I'm a developer interested in **computer networks, AI, operating systems, microcomputers, and PLC automation**.  
 Currently participating on **Free95 OS**, experimenting with **AI models in cybersecurity**, and learning about **industrial automation**.  
 
+![TouaregCS GitHub stats](https://github-readme-stats.vercel.app/api?username=TouaregCS&show_icons=true&theme=transparent)
+
 ---
 
 ## 🚀 What I'm working on   
