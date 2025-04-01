@@ -27,7 +27,11 @@ Currently participating on **Free95 OS**, experimenting with **AI models in cybe
 - 🔌 Computer networks & system administration  
 - 🏭 Microcomputers & **PLC automation**  
 - 🎨 Frontend development with **Bootstrap** - see [Tajná společnost on Blogger](https://tajnaspolecnost.blogspot.com/)
-- 🤖 AI & machine learning experiments    
+- 🤖 AI & machine learning experiments
+- ✏️ Copywriting and blogging:
+  - [U Netvora](https://unetvora.blogspot.com/) about cars, vehicles, engines
+  - [Krása a zdraví](https://krasazdravi.blogspot.com/) about health and beauty (tips, tricks, guides)
+  - [Zvířata celého světa](https://mistopropsy.blogspot.com/) about pets and animals, was planned to work together with [Facebook page](https://www.facebook.com/zvirata.naseho.sveta) 
 
 ---
 
